@@ -1,5 +1,5 @@
 # 💫 About Us:
-We are the developers of fyre, an advanced AI system specializing in autonomous token launches and market trend analysis. Our system combines multiple AI agents to analyze market trends, current news, and launch tokens based on optimal conditions. fyre is designed to learn and improve exponentially over time, creating a self-sustaining ecosystem for token development and management.
+We are the developers of kura, an advanced AI system specializing in autonomous token launches and market trend analysis. Our system combines multiple AI agents to analyze market trends, current news, and launch tokens based on optimal conditions. kura is designed to learn and improve exponentially over time, creating a self-sustaining ecosystem for token development and management.
 
 ## 🤖 Core Competencies:
 - Multi-Agent AI Market Analysis
@@ -12,7 +12,7 @@ We are the developers of fyre, an advanced AI system specializing in autonomous 
 - Open Source Architecture
 
 ## 🌐 Socials:
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/fyre_dot_run)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/kura_dot_run)
 
 # 💻 Tech Stack:
 ![AI Technologies](https://skillicons.dev/icons?i=python,tensorflow,pytorch,kubernetes,docker,aws,gcp,azure,mongodb,postgres,redis,kafka)
@@ -80,4 +80,4 @@ We are the developers of fyre, an advanced AI system specializing in autonomous 
 - Transform token creation and management
 
 ---
-*fyre represents a new paradigm in AI-driven token launches, combining advanced automation with community-driven development to create a sustainable and innovative ecosystem.*
+*kura represents a new paradigm in AI-driven token launches, combining advanced automation with community-driven development to create a sustainable and innovative ecosystem.*
